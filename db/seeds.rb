@@ -6,5 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-# Usertype.create(id:1,nombre_tipo_usuario:"Administrador")
-# Usertype.create(id:2,nombre_tipo_usuario:"Cliente")
+ Usertype.create(id:1,nombre_tipo_usuario:"Administrador")
+ Usertype.create(id:2,nombre_tipo_usuario:"Cliente")
